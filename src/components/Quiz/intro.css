@@ -1,0 +1,13 @@
+.Next{
+    background-color: blueviolet;
+    color: greenyellow;
+    padding: 10px 20px;
+    font-size:20px;
+}
+.Next:hover{
+    cursor:pointer;
+    background-color: rgb(51,38,226);
+}
+.Next[disabled]{
+    display:none;
+}

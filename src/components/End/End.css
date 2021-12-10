@@ -1,0 +1,22 @@
+.End{
+    text-align: center;
+    background-color: cornsilk;
+    margin: 2%;
+    padding: 10%
+}
+.End h1{
+    color: mediumslateblue;
+}
+
+.End button{
+    color: mediumpurple;
+    background-color:lightcoral ;
+    padding: 15px;
+    border:2px soli black;
+    font-size: 20px;
+}
+
+.End button:hover{
+    cursor: pointer;
+    background-color: lightcoral;
+}

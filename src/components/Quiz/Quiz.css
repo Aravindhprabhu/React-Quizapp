@@ -1,0 +1,20 @@
+.Main-Content h1{
+    color:blue;
+    text-align: center;
+            }
+.Main-Content button{
+    color: darkmagenta;
+    background-color: darkgrey;
+    padding: 10px;
+    border: 1px solid blanchedalmond;
+    font-size: larger;
+    transition: 0.3s;
+            }
+.Main-Content button:hover{
+    cursor: pointer;
+    background-color: darkturquoise;
+            }
+.Main-Content h2{
+    color:blueviolet;
+    text-align: center;
+}
